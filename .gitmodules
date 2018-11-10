@@ -4,6 +4,3 @@
 [submodule "dispenser/firmware"]
 	path = dispenser/firmware
 	url = https://github.com/nanpy/nanpy-firmware
-[submodule "api"]
-	path = api
-	url = https://github.com/xentyo/dsd-api-node
